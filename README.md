@@ -1,1 +1,2 @@
-# SciCalc
+This is a simple scientific calculator implemented in C++ using a template based class. 
+This calculator does various operations like Addition, Subtraction, Multiplication, Division,Power,Square Root, Sine, Cosine, and Tangent (with angle in degrees),Natural Logarithm (log base e), Exponential function (e^x),Reciprocal (1/x) and Error handling for division by zero, square root of negative numbers, and undefined tangent values(90,270..)
